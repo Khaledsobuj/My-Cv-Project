@@ -1,0 +1,83 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #fff;
+    font-family: 'Kanit', sans-serif;
+}
+.contener{
+    max-width: 1000px;
+    margin: 0 auto ;
+    padding: 20px;
+    background: #11999e;
+}
+header{
+
+}
+.profileimg{
+    width: 150px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid #fff;
+    float: left;
+}
+.header_bio{
+    padding: 10px;
+    float: left;
+}
+h1,h2,h3,h4,h5,h6{
+    color: aquamarine;
+}
+.header_content{
+    padding: 0px;
+    float: right;
+}
+.header_content p a{
+    text-decoration: none;
+    color: aquamarine;;
+    font-weight: bold;
+}
+.header_content p a:hover{
+    text-decoration: underline;
+    color: tomato;
+}
+.div_clear{
+    clear: both;
+}
+.top_hr{
+    border: solid black 3px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+#main_part{
+
+}
+.section{
+
+}
+.creatic{
+
+}
+.left_site{
+    width: 30%;
+    float: left;
+}
+.right_site{
+    width: 70%;
+    float: left;
+}
+.right_site p{
+    text-align: justify;
+}
+.hr{
+    border: solid black 1px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+}
+.education{
+    
+}
